@@ -1,0 +1,11 @@
+"AwayTeam","HomeTeam","AwayP","HomeP","Time","Surface","AwayOdds","HomeOdds","Winner","Rundiff","HomeWin"
+"MIN","CLE","Ervin Santana","Carlos Carrasco","Day","Grass",240,-280,"CLE",3,TRUE
+"CIN","MIL","Sal Romano","Brent Suter","Day","Grass",142,-152,"MIL",1,TRUE
+"TBR","NYY","Jake Faria","Sonny Gray","Night","Grass",175,-190,"TBR",-3,FALSE
+"PIT","WSN","Ivan Nova","Edwin Jackson","Night","Grass",134,-144,"WSN",1,TRUE
+"ATL","MIA","Julio Teheran","Dillon Peters","Night","Grass",-103,-107,"MIA",6,TRUE
+"HOU","BOS","Brad Peacock","Eduardo Rodriguez","Night","Grass",-105,-105,"HOU",-10,FALSE
+"CHC","STL","Kyle Hendricks","Lance Lynn","Night","Grass",180,-200,"CHC",-1,FALSE
+"OAK","TEX","Sean Manaea","Miguel Gonzalez","Night","Grass",-115,105,"OAK",-3,FALSE
+"LAA","CHW","Bud Norris","Dylan Covey","Night","Grass",-120,110,"CHW",1,TRUE
+"DET","KCR","Daniel Norris","Danny Duffy","Night","Grass",180,-200,"DET",-3,FALSE

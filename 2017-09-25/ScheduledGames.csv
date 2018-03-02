@@ -1,0 +1,13 @@
+"AwayTeam","HomeTeam","AwayP","HomeP","Time","Surface","AwayOdds","HomeOdds","Winner","Rundiff","HomeWin"
+"ATL","NYM","Max Fried","Seth Lugo","Day","Grass",118,-128,"NYM",1,TRUE
+"KCR","NYY","Jakob Junis","CC Sabathia","Day","Grass",180,-200,"NYY",8,TRUE
+"ATL","NYM","Lucas Sims","Christopher Flexen","Day","Grass",-120,110,"ATL",-7,FALSE
+"WSN","PHI","A.J. Cole","Aaron Nola","Night","Grass",130,-140,"WSN",-2,FALSE
+"TOR","BOS","Brett Anderson","Drew Pomeranz","Night","Grass",180,-210,"TOR",-2,FALSE
+"HOU","TEX","Collin McHugh","Andrew Cashner","Night","Grass",-123,113,"HOU",-9,FALSE
+"LAA","CHW","Ricky Nolasco","James Shields","Night","Grass",-152,142,"CHW",2,TRUE
+"CHC","STL","Jon Lester","Luke Weaver","Night","Grass",125,-135,"CHC",-8,FALSE
+"MIA","COL","Odrisamer Despaigne","Tyler Chatwood","Night","Grass",145,-155,"MIA",-1,FALSE
+"SFG","ARI","Johnny Cueto","Zack Godley","Night","Grass",118,-128,"SFG",-7,FALSE
+"SEA","OAK","Felix Hernandez","Daniel Gossett","Night","Grass",-108,-102,"SEA",-6,FALSE
+"SDP","LAD","Travis Wood","Yu Darvish","Night","Grass",230,-260,"LAD",6,TRUE
