@@ -20,6 +20,7 @@ Under the heading "Rundiff" is the model I have been using to make predictions, 
 
 ## Historical Data
 
-This folder contains the dataset for each day:
+This folder contains a 7-day sample of the datasets for each day:
 * **HistoricalTable.csv** is a table of each recorded matchup, with the starting pitchers, betting odds, and all of the statistics detailed above up to the day that the game was played.
 * **HistTable_wToday.csv** is the same as HistoricalTable.csv but has today's games appended to it with the results marked as NA.
+* **FiveThirtyEight.csv** contains FiveThirtyEight's predicted win probabilities, which are only used for future comparison.
